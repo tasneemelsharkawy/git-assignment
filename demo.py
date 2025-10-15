@@ -1,1 +1,1 @@
-print('Hello from demo script')
+print("This is an updated demo script!")
